@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I’m Tess Bembo, an aspiring quantitative analyst with a passion for modeling real—messy—human behavior in high-stakes environments like finance and risk management. I’m fascinated by how patterns can be used to predict outcomes and improve real-world decision-making.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m currently in my third year of a psychology degree at McGill University, with plans to pursue a second bachelor’s in mathematics starting in 2027.
 
-What else do you need?
+Right now, I’m expanding my expertise through self-driven projects that combine my interests in mathematics, psychology, and finance—building a foundation to bridge human behavior and quantitative modeling, with a special focus on risk, uncertainty, and decision-making.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of my academic and technical work, I’ve always gravitated toward challenges that test endurance, precision, and resilience. I was a national swimming champion in Panama, later competed in rugby, and today keep up my competitive edge through long-distance running—logging about 50 kilometers a week. Before transitioning into finance and data, I trained and worked as a pastry chef, a craft that taught me patience, creativity, and discipline. I’m also passionate about giving back, and I volunteer regularly at a community center supporting underprivileged families.
