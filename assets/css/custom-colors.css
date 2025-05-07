@@ -1,0 +1,40 @@
+/* --- Force pink theme --- */
+
+body {
+    background-color: #fff9fb !important;
+    color: #333333 !important;
+}
+
+a {
+    color: #e75480 !important;
+}
+
+a:hover {
+    color: #d64570 !important;
+}
+
+.navbar {
+    background-color: #ffe6ef !important;
+    border-color: #ffccd5 !important;
+}
+
+.navbar a {
+    color: #333333 !important;
+}
+
+.navbar a:hover {
+    color: #d64570 !important;
+}
+
+footer {
+    background-color: #ffe6ef !important;
+    color: #555555 !important;
+}
+
+footer a {
+    color: #e75480 !important;
+}
+
+footer a:hover {
+    color: #d64570 !important;
+}
