@@ -1,4 +1,3 @@
-@@ -1,39 +0,0 @@
 ---
 layout: page
 title: Projects
@@ -27,9 +26,9 @@ By integrating *stochastic behavior patterns* into my Monte Carlo, I aim to mode
 
 ### What Makes This Monte Carlo Different?
 
-✅ I introduced **adaptive parameters** that allow the model to shift based on prior outcomes (e.g., reinforcing or dampening cycles).  
-✅ I tested **non-linear randomness** that creates "fat tails" and higher-order risk, which are typical in real-world systems but often overlooked.  
-✅ I focused on **context-sensitive randomness:** randomness that changes depending on the *state of the system* (not just uniform noise).
+ I introduced **adaptive parameters** that allow the model to shift based on prior outcomes (e.g., reinforcing or dampening cycles).  
+ I tested **non-linear randomness** that creates "fat tails" and higher-order risk, which are typical in real-world systems but often overlooked.  
+ I focused on **context-sensitive randomness:** randomness that changes depending on the *state of the system* (not just uniform noise).
 
 ### The Big Takeaway
 
