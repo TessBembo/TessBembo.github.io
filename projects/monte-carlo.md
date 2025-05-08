@@ -38,13 +38,13 @@ My rationale is simple: if we're using simulations to *forecast real-world outco
 
 Here’s the first graph showing the distribution of trials:
 
-![Monte Carlo Graph 1](assetsimgmonte-carlo-graph1.png.png)
+![Graph 1](assetsimgmonte-carlo-graph1.png.png)
 
 And here’s the second graph showing adaptive parameter changes:
 
-![Monte Carlo Graph 2](assetsimgmonte-carlo-graph2.png.png)
+![Graph 2](assetsimgmonte-carlo-graph2.png.png)
 
-![Monte Carlo Graph 2](assetsimgmonte-carlo-graph3.png.png)
+![Graph 3](assetsimgmonte-carlo-graph3.png.png)
 
 ## Simulation Results
 
