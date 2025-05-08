@@ -10,7 +10,7 @@ permalink: /projects/
 - [Other cool stuff coming soon!]
 
 
-Most Monte Carlo simulations focus on generating random samples based on *known* distributions—whether it's stock price paths, risk factor spreads, or weather predictions. These models are powerful and widely used in quantitative finance and risk management, but I found myself wondering: **are we truly modeling *real* uncertainty, or just mathematical neatness?**
+Most Monte Carlo simulations focus on generating random samples based on known distributions—whether it's stock price paths, risk factor spreads, or weather predictions. These models are powerful and widely used in quantitative finance and risk management, but I found myself wondering: **are we truly modeling *real* uncertainty, or just mathematical neatness?**
 
 In my latest project, I built a Monte Carlo simulation with an extra twist: rather than simply plugging in static assumptions, I layered in **behaviorally-driven randomness** to better reflect the **messy human dynamics** that influence markets and decisions.
 
