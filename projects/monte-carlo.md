@@ -46,6 +46,20 @@ And here’s the second graph showing adaptive parameter changes:
 
 ![Monte Carlo Graph 2](assetsimgmonte-carlo-graph3.png)
 
+## Simulation Results
+
+This first graph shows the distribution of trials and highlights the behavior of the fat tails in my simulation.
+
+<p align="center">
+  <img src="/monte-carlo-graph1.png" alt="Monte Carlo Graph 1" width="600"/>
+</p>
+
+Here’s a second visualization of the adaptive parameter behavior across different runs:
+
+<p align="center">
+  <img src="/monte-carlo-graph2.png" alt="Monte Carlo Graph 2" width="600"/>
+</p>
+
 ---
 
 *Check out the code [on GitHub](https://github.com/yourrepo) or see related posts in my [Projects](/projects) page.*
