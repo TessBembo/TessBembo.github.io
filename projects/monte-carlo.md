@@ -34,6 +34,18 @@ By integrating *stochastic behavior patterns* into my Monte Carlo, I aim to mode
 
 My rationale is simple: if we're using simulations to *forecast real-world outcomes,* our models should reflect not just mechanical randomness but the **behavioral uncertainty** that defines human systems. This project is a first step in that direction, and I'm excited to refine it further as my skills in mathematics and psychology continue to grow.
 
+## Simulation Results
+
+Here’s the first graph showing the distribution of trials:
+
+![Monte Carlo Graph 1](assetsimgmonte-carlo-graph1.png)
+
+And here’s the second graph showing adaptive parameter changes:
+
+![Monte Carlo Graph 2](assetsimgmonte-carlo-graph2.png)
+
+![Monte Carlo Graph 2](assetsimgmonte-carlo-graph3.png)
+
 ---
 
 *Check out the code [on GitHub](https://github.com/yourrepo) or see related posts in my [Projects](/projects) page.*
