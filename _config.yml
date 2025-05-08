@@ -39,7 +39,7 @@ rss-description: A portfolio and blog documenting my work in quantitative financ
 ###########################
 
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   reddit: false
