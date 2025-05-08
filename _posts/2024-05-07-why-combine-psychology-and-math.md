@@ -1,9 +1,11 @@
+
 ---
+
 layout: post
 title: "Why I’m Combining Psychology and Mathematics to Pursue Quantitative Finance"
 subtitle: "Bridging human behavior and mathematical modeling"
 author: Tess Bembo
-date: 2024-05-07
+date: 2025-05-07
 tags: [quant finance, psychology, modeling, data science]
 ---
 
