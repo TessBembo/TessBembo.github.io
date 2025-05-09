@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## My Current Projects
 
-- [Monte Carlo Behavioral Simulation](/blog/2025/05/07/monte-carlo-meets-psychology)
+- [Monte Carlo Behavioral Simulation](/projects/monte-carlo/)
 - [Other cool stuff coming soon!]
 
 Most Monte Carlo simulations focus on generating random samples based on known distributions—whether it's stock price paths, risk factor spreads, or weather predictions. These models are powerful and widely used in quantitative finance and risk management, but I found myself wondering: <strong style="color:#e91e63;">are we truly modeling <em>real</em> uncertainty, or just mathematical neatness?</strong>
