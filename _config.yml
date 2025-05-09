@@ -154,6 +154,10 @@ exclude:
   - screenshot.png
   - docs/
 
+collections:
+  projects:
+    output: true
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
