@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Regime-Switching Price Simulator
+title: Monte Carlo Behavioral Simulation
+permalink: /projects/price-simulator/
 ---
 
 #  Regime-Switching Price Simulator
