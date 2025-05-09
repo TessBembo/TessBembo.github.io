@@ -62,6 +62,3 @@ By enhancing the standard GBM with behavioral elements, this project achieves:
 - **Differentiation:** Moves beyond textbook implementations to develop a model that reflects **real-world phenomena.**
 
 ---
-
-> *This project is part of a broader effort to combine rigorous quantitative modeling with insights from psychology and behavioral economics, aiming to create simulations that capture not only mathematical structure but also human-driven market behavior.*
-
