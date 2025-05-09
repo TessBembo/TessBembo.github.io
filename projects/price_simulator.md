@@ -1,29 +1,29 @@
-# 💡 Regime-Switching Price Simulator
+#  Regime-Switching Price Simulator
 
 This project simulates stock price paths using a **Geometric Brownian Motion (GBM)** framework, enhanced with a **regime-switching mechanism** inspired by behavioral finance.
 
 **Standard GBM** assumes that volatility (risk) remains **constant over time.** While mathematically convenient, this assumption does **not reflect real market behavior.** In reality, markets experience distinct phases:
 
-- 🟢 **Calm phases:** periods of relatively stable price movements.
-- 🔴 **Panic phases:** periods of heightened volatility, often triggered by fear, uncertainty, or external shocks (e.g., 2008 crash, COVID-19 crisis).
+-  **Calm phases:** periods of relatively stable price movements.
+-  **Panic phases:** periods of heightened volatility, often triggered by fear, uncertainty, or external shocks (e.g., 2008 crash, COVID-19 crisis).
 
 Behavioral finance research shows that these volatility spikes are not random—they stem from **human psychology,** especially emotions like **fear and herd behavior.**
 
 ---
 
-## 🎯 Why Build This Model?
+##  Why Build This Model?
 
 This simulator was developed to **bridge the gap between classic quant models and behavioral insight.** While mastering **core quantitative techniques** is essential (e.g., GBM, Monte Carlo methods), it's equally important to recognize their **limitations** and enhance them to **better capture real-world complexity.**
 
 By incorporating **regime-switching volatility:**
 
-- ✅ We introduce a **behaviorally-driven mechanism** that allows the model to dynamically shift between calm and panic states.
-- ✅ We make the simulation more **realistic and reflective** of true market dynamics.
-- ✅ We demonstrate a commitment to **critically evaluating and improving standard models.**
+-  We introduce a **behaviorally-driven mechanism** that allows the model to dynamically shift between calm and panic states.
+-  We make the simulation more **realistic and reflective** of true market dynamics.
+-  We demonstrate a commitment to **critically evaluating and improving standard models.**
 
 ---
 
-## 🔬 How It Works (Conceptually)
+##  How It Works (Conceptually)
 
 The model features two distinct regimes:
 
@@ -42,7 +42,7 @@ This method allows for the emergence of **fat tails** and **volatility clusterin
 
 ---
 
-## 🚀 Why This Matters
+##  Why This Matters
 
 By enhancing the standard GBM with behavioral elements, this project achieves:
 
