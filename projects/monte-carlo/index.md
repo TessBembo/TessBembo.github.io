@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Monte Carlo Behavioral Simulation
-permalink: /projects/monte-carlo/
 ---
 
 ## My Current Projects
