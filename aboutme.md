@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About me
+title: About me!
 
 ---
 
-Hi, I’m Tess Bembo, an aspiring quantitative analyst with a passion for modeling real—messy—human behavior in high-stakes environments like finance and risk management. I’m fascinated by how patterns can be used to predict outcomes and improve real-world decision-making.
+Hi! I’m Tess Bembo, an aspiring quantitative analyst with a passion for modeling real—messy—human behavior in high-stakes environments like finance and risk management. I’m fascinated by how patterns can be used to predict outcomes and improve real-world decision-making.
 
 I’m currently in my third year of a psychology degree at McGill University, with plans to pursue a second bachelor’s in mathematics starting in 2027.
 
