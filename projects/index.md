@@ -4,5 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-- [Monte Carlo Behavioral Simulation](/projects/monte-carlo/)
-- [Regime-Switching Price Simulator](/projects/price-simulator/)
+- [Monte Carlo Behavioral Simulation](/monte-carlo/)
+- [Regime-Switching Price Simulator](/price-simulator/)
+
