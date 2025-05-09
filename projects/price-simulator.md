@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
 #  Regime-Switching Price Simulator
 
 This project simulates stock price paths using a **Geometric Brownian Motion (GBM)** framework, enhanced with a **regime-switching mechanism** inspired by behavioral finance.
