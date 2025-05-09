@@ -4,7 +4,7 @@ title: Regime-Switching Price Simulator
 permalink: /projects/price-simulator/
 ---
 
-# 🎢 Regime-Switching Price Simulator
+#  Regime-Switching Price Simulator
 
 - [Monte Carlo Behavioral Simulation](/projects/monte-carlo/)
 - [Regime-Switching Price Simulator](/projects/price-simulator/)
@@ -21,7 +21,7 @@ Behavioral finance tells us these volatility bursts aren’t random—they’re 
 
 ---
 
-## 🚀 Why Build This Model?
+##  Why Build This Model?
 
 I built this to <strong style="color:#e91e63;">bridge the gap</strong> between classic quant models and behavioral insights. Sure, mastering <strong style="color:#e91e63;">core quantitative tools</strong> (GBM, Monte Carlo) is crucial, but I also want to push deeper—recognizing their <strong style="color:#e91e63;">limitations</strong> and making them <strong style="color:#e91e63;">better reflect real-world complexity.</strong>
 
@@ -33,7 +33,7 @@ By weaving in <strong style="color:#e91e63;">regime-switching volatility:</stron
 
 ---
 
-## 🛠️ How It Works (Conceptually)
+##  How It Works (Conceptually)
 
 The model runs on two key regimes:
 
@@ -52,7 +52,7 @@ This design naturally produces <strong style="color:#e91e63;">fat tails</strong>
 
 ---
 
-## 💡 Why It Matters
+##  Why It Matters
 
 This upgraded GBM brings:
 
