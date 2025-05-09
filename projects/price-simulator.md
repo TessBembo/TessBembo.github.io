@@ -6,7 +6,7 @@ permalink: /projects/
 
 #  Regime-Switching Price Simulator
 
-- [Monte Carlo Behavioral Simulation](/blog/2025/05/07/monte-carlo-meets-psychology)
+- [Monte Carlo Behavioral Simulation](/projects/2025/05/07/monte-carlo-meets-psychology)
 - [Regime-Switching Price Simulator](/projects/price-simulator/)
 - [Other cool stuff coming soon!]
 
