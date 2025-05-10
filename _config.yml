@@ -12,8 +12,7 @@ author: Tess Bembo
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-  Blog: "blog"
+  Projects: "blog"   # ← keeps using the blog system but renames the tab
   Contact: "contact"
 
 ################
