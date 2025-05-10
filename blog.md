@@ -7,8 +7,8 @@ permalink: /blog/
 <h2 style="text-align: center; margin-top: 20px;">Featured Projects</h2>
 
 <ul>
-  <li><a href="/projects/price-simulator/">Regime-Switching Price Simulator</a></li>
-  <li><a href="/projects/monte-carlo/">Monte Carlo Behavioral Simulation</a></li>
+  <li><a href="/price-simulator/">Regime-Switching Price Simulator</a></li>
+  <li><a href="/monte-carlo/">Monte Carlo Behavioral Simulation</a></li>
 </ul>
 
 <hr style="border: 1px solid #ffccd5; margin: 40px 0;">
