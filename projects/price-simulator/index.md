@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Regime-Switching Price Simulator
+permalink: /projects/price-simulator/
 ---
 
 #  Regime-Switching Price Simulator
