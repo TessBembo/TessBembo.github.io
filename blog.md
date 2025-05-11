@@ -9,6 +9,7 @@ permalink: /blog/
 <ul>
   <li><a href="/projects/price-simulator/">Regime-Switching Price Simulator</a></li>
   <li><a href="/projects/monte-carlo/">Monte Carlo Behavioral Simulation</a></li>
+  <li><a href="/projects/bayesian-latent-traits/">Bayesian Latent Trait Modeling in Financial Decision-Making</a></li>
 </ul>
 
 <hr style="border: 1px solid #ffccd5; margin: 40px 0;">
