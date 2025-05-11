@@ -60,12 +60,14 @@ This upgraded GBM brings:
 - <strong style="color:#e91e63;">Behavioral integration:</strong> Weaves human psychology (fear, uncertainty) into the math.
 - <strong style="color:#e91e63;">A personal edge:</strong> Pushes beyond textbook models to create something sharper—and closer to how the real world actually works.
 
-## But...What's missing?
+---
 
-The Markov chain adds a valuable layer of realism—but as I was writing this rationale, I couldn’t help but ask myself: *Is this truly how the market behaves? Is this truly how we behave?*
+## <span style="color:#e91e63;">But...What's missing?</span>
 
-These questions pushed me to look deeper into the modeling world. For one of my next projects, I plan to explore more advanced structures in the Markov family: **higher-order chains**, **hidden Markov models**, or even **semi-Markov approaches**. 
+The <span style="color:#e91e63;">Markov chain</span> adds a valuable layer of realism—but as I was writing this rationale, I couldn’t help but ask myself: *<span style="color:#e91e63;">Is this truly how the market behaves? Is this truly how we behave?</span>*
 
-The iceberg runs deep—and I intend to dive.
+These questions pushed me to look deeper into the modeling world. For one of my next projects, I plan to explore more advanced structures in the Markov family: <strong style="color:#e91e63;">higher-order chains</strong>, <strong style="color:#e91e63;">hidden Markov models</strong>, or even <strong style="color:#e91e63;">semi-Markov approaches</strong>.
+
+The iceberg runs deep—and <span style="color:#e91e63;">I intend to dive.</span>
 
 
