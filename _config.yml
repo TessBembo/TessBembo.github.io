@@ -2,8 +2,7 @@
 # --- Required options --- #
 ############################
 
-title: Tess Bembo – Quantitative Finance & Data Science
-
+title: Tess Bembo –  bridging psychology and finance 
 author: Tess Bembo
 
 ###############################################
@@ -31,7 +30,7 @@ social-network-links:
   github: TessBembo
   linkedin: tess-bembo
 
-rss-description: A portfolio and blog documenting my work in quantitative finance, data science, and modeling.
+rss-description: A portfolio and blog documenting my personal projects in quantitative finance and psychology.
 
 ###########################
 # --- General options --- #
