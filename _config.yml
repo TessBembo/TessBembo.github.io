@@ -11,8 +11,8 @@ author: Tess Bembo
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "blog"   # ← keeps using the blog system but renames the tab
-  Contact: "contact"
+  Projects: "Projects"   
+  currIculum vitae: "Curriculum Vitae "
 
 ################
 # --- Logo --- #
