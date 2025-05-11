@@ -62,10 +62,6 @@ This upgraded GBM brings:
 
 ## But...What's missing?
 
----
-
-## Looking Ahead
-
 The Markov chain adds a valuable layer of realism—but as I was writing this rationale, I couldn’t help but ask myself: *Is this truly how the market behaves? Is this truly how we behave?*
 
 These questions pushed me to look deeper into the modeling world. For one of my next projects, I plan to explore more advanced structures in the Markov family: **higher-order chains**, **hidden Markov models**, or even **semi-Markov approaches**. 
