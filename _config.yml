@@ -11,8 +11,8 @@ author: Tess Bembo
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"   
-  currIculum vitae: "Curriculum Vitae "
+  Projects: "projects"
+  Curriculum Vitae: "curriculum-vitae"
 
 ################
 # --- Logo --- #
