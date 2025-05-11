@@ -4,12 +4,6 @@ title: Regime-Switching Price Simulator
 permalink: /projects/price-simulator/
 ---
 
-#  Regime-Switching Price Simulator
-
-- [Monte Carlo Behavioral Simulation](/monte-carlo/)
-- [Regime-Switching Price Simulator](/price-simulator/)
-- [Other cool stuff coming soon!]
-
 This project simulates stock price paths using a <strong style="color:#e91e63;">Geometric Brownian Motion (GBM)</strong> framework, enhanced with a <strong style="color:#e91e63;">regime-switching mechanism</strong> inspired by behavioral finance.
 
 **Standard GBM** assumes volatility (risk) stays <strong style="color:#e91e63;">constant over time.</strong> That’s clean math—but let’s be real, it’s not how markets behave. In reality, things get messy, and markets flip between phases:
