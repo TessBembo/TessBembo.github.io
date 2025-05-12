@@ -2,8 +2,9 @@
 # --- Required options --- #
 ############################
 
-title: Tess Bembo –  bridging psychology and finance 
+title: Tess Bembo – bridging psychology and finance
 author: Tess Bembo
+remote_theme: daattali/beautiful-jekyll
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -58,27 +59,27 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-page-col: "#fff9fb"            # soft pinkish white
-text-col: "#333333"            # dark gray for text
-link-col: "#e75480"            # pink links
-hover-col: "#d64570"           # deeper pink on hover
-navbar-col: "#ffe6ef"          # very light pink navbar
+page-col: "#fff9fb"
+text-col: "#333333"
+link-col: "#e75480"
+hover-col: "#d64570"
+navbar-col: "#ffe6ef"
 navbar-text-col: "#333333"
-navbar-border-col: "#ffccd5"   # subtle pink border
+navbar-border-col: "#ffccd5"
 footer-col: "#ffe6ef"
 footer-text-col: "#555555"
 footer-link-col: "#e75480"
 footer-hover-col: "#d64570"
 
-# Optional background images (leave commented if not using)
+# Optional background images
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
-# Suggest a colour for mobile browsers
+# Mobile browser theme color
 #mobile-theme-col: "#e75480"
 
-# Include custom CSS to force pink theme
+# Custom CSS
 site-css:
   - "/assets/css/custom-colors.css"
 
@@ -87,26 +88,18 @@ site-css:
 #################################
 
 #gtag: "G-XXXXXXXXXX"
-#cloudflare_analytics: ""
-#gtm: ""
 
 ####################
 # --- Comments --- #
 ####################
 
+# To enable a comment system, uncomment one:
 #disqus: ""
-#fb_comment_id: ""
-#commentbox: "" 
+#commentbox: ""
 #giscus:
-#  hostname: giscus.app
-#  repository: 
-#  repository-id:
-#  category: Announcements
-#  category-id:
+#  repository: ""
+#  category: ""
 #  mapping: pathname
-#  reactions-enabled: 1
-#  emit-metadata: 0
-#  theme: light
 
 ################
 # --- Misc --- #
@@ -159,8 +152,4 @@ collections:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
 
