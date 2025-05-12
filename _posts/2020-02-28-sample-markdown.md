@@ -7,7 +7,7 @@ date: 2024-05-07
 tags: [portfolio, quant finance, data science]
 ---
 
-Welcome to my site! This is my first official post 🎉.
+Welcome to my site! This is my first official post.
 
 I created this space to document my journey into **quantitative finance**, **data science**, and **behavioral modeling.** Over the next months, I’ll be sharing:
 
