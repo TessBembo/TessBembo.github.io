@@ -8,6 +8,6 @@ permalink: /curriculum-vitae/
 
 You can view or download my CV below.
 
-[📄 Download CV (PDF)](/assets/Tess_Bembo_CV.pdf)
+[📄 Download CV (PDF)](/assets/academic_cv_tess.pdf)
 
-<iframe src="/assets/Tess_Bembo_CV.pdf" width="100%" height="900px" style="border: none;"></iframe>
+<iframe src="/assets/academic_cv_tess.pdf" width="100%" height="900px" style="border: none;"></iframe>
