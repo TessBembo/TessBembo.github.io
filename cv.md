@@ -6,4 +6,4 @@ permalink: /curriculum-vitae/
 
 # Curriculum Vitae
 
-[📄 View My CV in Fullscreen](/assets/Tess_Bembo_CV.pdf){:target="_blank"}
+[📄 View My CV in Fullscreen](/assets/academic_cv_tess.pdf){:target="_blank"}
