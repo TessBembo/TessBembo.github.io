@@ -10,4 +10,4 @@ You can view or download my CV below.
 
 [📄 Download CV (PDF)](/assets/academic_cv_tess.pdf)
 
-<iframe src="/assets/academic_cv_tess.pdf" width="100%" height="900px" style="border: none;"></iframe>
+<iframe src="/assets/academic_cv_tess.pdf" width="100%" height="1600px" style="border: none;"></iframe>
