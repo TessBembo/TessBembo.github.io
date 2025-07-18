@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Launching My Portfolio!"
-subtitle: "The start of my journey into quantitative finance and data science"
+subtitle: "The start of my journey into behavioral modeling and data science"
 author: Tess Bembo
 date: 2024-05-07
-tags: [portfolio, quant finance, data science]
+tags: [portfolio, modeling, psychology, data science]
 ---
 
 Welcome to my site! This is my first official post.
 
-I created this space to document my journey into **quantitative finance**, **data science**, and **behavioral modeling.** Over the next months, I’ll be sharing:
+I created this space to document my journey into **data science**, and **behavioral modeling.** Over the next months, I’ll be sharing:
 
 - **Projects** I'm working on (from predictive modeling to exploratory data analysis)
 - **Certifications & skills** I’m building to strengthen my expertise
