@@ -5,7 +5,7 @@ title: "Why I’m Combining Psychology and Mathematics"
 subtitle: "Bridging human behavior and mathematical modeling"
 author: Tess Bembo
 date: 2025-05-07
-tags: [quant finance, psychology, modeling, data science]
+tags: [psychology, modeling, data science]
 ---
 
 Dice are the emblem of statistics. With two of them, you have a 1-in-6 chance of rolling a seven. Anyone who’s played Catan knows: seven shows up vexatiously more often than that.
