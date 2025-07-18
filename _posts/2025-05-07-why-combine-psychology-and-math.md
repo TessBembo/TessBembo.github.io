@@ -8,15 +8,21 @@ date: 2025-05-07
 tags: [quant finance, psychology, modeling, data science]
 ---
 
-Like many people entering the world of quantitative finance and data science, I started with a fascination for numbers, patterns, and predictions. But unlike many, my academic path began in psychology—a field that explores the complexities of human behavior, decisions, and emotions.
+Dice are the emblem of statistics. With two of them, you have a 1-in-6 chance of rolling a seven. Anyone who’s played Catan knows: seven shows up vexatiously more often than that.
 
-At first glance, psychology and quantitative finance might seem worlds apart. One studies feelings and thoughts; the other crunches numbers. But the deeper I dive, the more I see how tightly these worlds are connected—especially when it comes to understanding risk, uncertainty, and market dynamics.
+I found it maddening to be told, “Yes, but if you roll them 100 times…”
 
-We often assume that financial markets are driven by rational actors and predictable models. But as any real-world event shows (from bubbles to crashes), humans are rarely fully rational. Biases, fears, overconfidence, and herd behavior play massive roles in financial outcomes. This is where psychology comes in—and where I believe the most robust models must account for both the **mathematical structure of risk** and the **messy realities of human behavior.**
+But why would I roll them 100 times? In real life, I only get one roll. I need statistics that can help me make sense of this roll — not some hypothetical average. That’s when I realized: I needed a different kind of statistics.
 
-I’m combining these two fields because I want to build models that do more than fit historical data; I want them to reflect how people actually behave under pressure, uncertainty, and shifting incentives. By bringing together psychological insight with mathematical rigor, I hope to contribute to more realistic, adaptable, and insightful tools in the world of finance.
+Classical models — like Rational Choice Theory — assume people make decisions like machines, optimizing cost-benefit calculations. That’s tidy. That’s mathematically convenient. But it’s wrong.
 
-This is the journey I’m documenting here—one step at a time, as I grow my expertise in both fields and work toward my long-term goal of becoming a quantitative analyst with a deep understanding of both people and numbers.
+People don’t behave like rational calculators. We behave like Bayesian creatures, absorbing all the information we’ve seen, heard, or felt, then reacting accordingly — not always logically, but predictably.
+
+This makes us astonishingly precise and deeply flawed. It’s how we survive. It’s also why we’re biased.
+
+And that’s the point. If you’re trying to build a model that predicts real human behavior — in elections, finance, conflict, or even love — you can’t just rely on brute-force math. You have to understand the psychology of the person behind the data.
+
+This blog is about that. It’s about the small, seemingly irrational quirks that power the biggest decisions we make — and how understanding them might make us better at building models that actually work.In a world obsessed with data, I believe the next frontier is not just more information — it’s better interpretation. That starts with understanding people.
 
 ---
 
