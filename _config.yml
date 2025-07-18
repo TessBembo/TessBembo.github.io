@@ -2,7 +2,7 @@
 # --- Required options --- #
 ############################
 
-title: Tess Bembo – bridging psychology and finance
+title: Tess Bembo – bridging psychology and mathematics
 author: Tess Bembo
 remote_theme: daattali/beautiful-jekyll
 
@@ -31,7 +31,7 @@ social-network-links:
   github: TessBembo
   linkedin: tess-bembo
 
-rss-description: A portfolio and blog documenting my personal projects in quantitative finance and psychology.
+rss-description: A portfolio and blog documenting my personal projects in mathematics and psychology.
 
 ###########################
 # --- General options --- #
